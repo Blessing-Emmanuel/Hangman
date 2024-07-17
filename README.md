@@ -1,3 +1,4 @@
 # Hangman
 Hangman game - Python
-# Checking if connected 
+
+Game description - Hangman game where computer generates word and user must guess
