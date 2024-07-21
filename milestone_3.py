@@ -17,7 +17,6 @@ def ask_for_input():
 def check_guess(guess):
     lower_guess = guess.lower()
     if lower_guess in word:
-        print(word)
         print(f"Good guess! {guess} is in word")
     else:
         print(f"Sorry, {guess} is not in the word. Try again")
